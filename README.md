@@ -2,8 +2,14 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Wil-Mc" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">         
-  <img align="center" alt="Wil-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Wil-Mc" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+          
+
+
+
+  
+  <img align="center" alt="Wil-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.sv">
   <img align="center" alt="wil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
