@@ -1,4 +1,4 @@
-## Oiii eu sou Wilian Rodrigues, aluno de Frent-End Web Designer!
+## Olá eu sou Wilian Rodrigues, aluno de Frent-End Web Designer!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
