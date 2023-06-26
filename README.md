@@ -1,7 +1,8 @@
 ## Olá eu sou Wilian Rodrigues, aluno de Frent-End Web Designer!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wil-Js" height="30" width="40" src=" <i class="devicon-maçã-original"></i>">
+ <i class="devicon-maçã-original"></i>
+          
   <img align="center" alt="Wil-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="wil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
